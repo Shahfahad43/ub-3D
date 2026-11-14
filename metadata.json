@@ -1,0 +1,6 @@
+{
+  "name": "University of Bisha 3D Digital Twin",
+  "description": "Interactive, geographically accurate 3D digital twin and virtual campus explorer for the University of Bisha (جامعة بيشة), built from satellite imagery and architectural reference photographs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
